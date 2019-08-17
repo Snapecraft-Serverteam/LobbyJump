@@ -1,0 +1,11 @@
+name: Lobbyjump
+version: ${project.version}
+main: net.snapecraft.lobbyjump.Lobbyjump
+prefix: [JUMP]
+authors: [Tallerik]
+description: Lobbygame
+website: https://snapecraft.net
+
+commands:
+  jump:
+    description: starts jumping
